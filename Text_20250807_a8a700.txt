@@ -1,0 +1,13 @@
+🌤️ Weather Report Sentiment Analyzer 🌩️
+Enter/Paste weather reports (Ctrl+D/Ctrl+Z to finish):
+Severe thunderstorms expected tonight with possible hail and damaging winds.
+Residents should take precautions and stay indoors.
+
+📊 Analysis Results:
+📝 Report: Severe thunderstorms expected tonight with possible hail and damaging winds Residents should take prec...
+🎭 Primary Sentiment: NEGATIVE
+✅ Confidence: 98.76%
+
+📈 Detailed Scores:
+- Negative: 98.76%
+- Positive: 1.24%
