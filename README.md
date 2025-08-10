@@ -122,12 +122,11 @@ Contributions are welcome! Please open an issue or submit a pull request for any
 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-Author
 
-Amos Meremu
+Author :Amos Meremu
 
-    GitHub: GTVSOFT
+GitHub: GTVSOFT
 
-    Project Repository: https://github.com/GTVSOFT/Weather-Report-Sentiment-Analyze
+Project Repository: https://github.com/GTVSOFT/Weather-Report-Sentiment-Analyze
 
 Enjoy analyzing weather sentiments! 🌞⛅🌧️⛈️
